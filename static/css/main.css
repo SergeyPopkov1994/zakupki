@@ -1,0 +1,15 @@
+html,
+body,
+header {
+  height: 100%;
+}
+
+
+.btn a {
+	text-decoration: none;
+	color: grey;
+}
+
+.btn a:hover {
+	color: white
+}
