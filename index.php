@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="full-height">
 <head>
-    <title>Поис недобросовестных сделок</title>
+    <title>Поиск недобросовестных сделок</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
     <link  href="../static/css/main.css" th:href="@{/css/main.css}" rel="stylesheet"/>
@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<h2 class="text-center" style="color: white; margin-top: 100px;">Поиск недобросовестных сделок с сайта <a href="https://zakupki.gov.ru/">государственных закупок</a></h5>
+<h2 class="text-center" style="color: white; margin-top: 100px;">Поиск недобросовестных сделок с сайта <a href="https://zakupki.gov.ru/">zakupki.gov.ru</a></h5>
 <div class="container-fluid">
   <div class="row justify-content-center">
     <div class="col-md-6" style="margin-top: 100px;">
